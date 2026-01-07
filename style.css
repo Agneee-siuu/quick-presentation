@@ -1,0 +1,121 @@
+html {
+  font-size: 62.5%;
+}
+
+.logpage {
+  background: rgb(187, 189, 114);
+  margin: 6.25rem auto;
+  width: 25rem;
+  height: 25rem;
+  border: 0.125rem solid;
+  border-radius: 15px;
+  text-size-adjust: inherit;
+}
+
+.login {
+  text-align: center;
+}
+
+#user {
+  margin-top: 0rem;
+  margin-bottom: 0.9375rem;
+}
+
+#pass {
+  margin-left: 0.21875rem;
+}
+.subbutton {
+  margin-top: 1.25rem;
+  margin-left: 7rem;
+  cursor: pointer;
+}
+
+/* suc page */
+
+.clear {
+  clear: both;
+}
+
+/* logo */
+h1 {
+  font-size: 4rem;
+}
+/* welcome*/
+h2 {
+  font-size: 4rem;
+  padding: 1rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+/* top layout */
+nav {
+  background: rgb(54, 113, 180);
+  color: white;
+  padding: 1rem;
+  margin-bottom: 0rem;
+}
+
+/* logo part*/
+nav h1 {
+  float: left;
+  margin-left: 1rem;
+}
+
+/* options*/
+nav ul {
+  float: right;
+  font-size: 1.5rem;
+  margin-top: 4rem;
+  padding: 0.5rem;
+}
+/* anchor home,about,contact */
+a {
+  color: white;
+  text-decoration: none;
+}
+
+nav li {
+  float: left;
+  margin: 0rem 4rem;
+  list-style-type: none;
+}
+
+.portfolio {
+  background-image: url("/img/dash.jpg");
+  height: 80rem;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  text-shadow: 3px 3px 3px white;
+  margin-top: 0rem;
+}
+
+.portfolio button {
+  padding: 1rem 4rem;
+}
+
+.form-section {
+  text-align: center;
+}
+
+.setup input,
+.setup label,
+.setup form textarea {
+  display: block;
+  font-size: 2rem;
+}
+
+.setup input,
+.setup textarea {
+  margin: auto;
+}
+
+.button1 {
+  margin-top: 2rem;
+  background: rgb(50, 47, 221);
+  color: white;
+  cursor: pointer;
+}
